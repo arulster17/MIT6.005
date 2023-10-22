@@ -1,0 +1,11 @@
+T__0=1
+T__1=2
+NUMBER=3
+VARIABLE=4
+ADD=5
+MULT=6
+SPACES=7
+'('=1
+')'=2
+'+'=5
+'*'=6
